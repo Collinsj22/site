@@ -1,0 +1,29 @@
+<html>
+<head>
+<link href="style.css" rel="stylesheet"
+
+</head>
+
+<body>
+
+    <table style="width:100%">
+      <tr>
+   <th>Name</th>
+   <th>Throw</th>
+   <th>Bat</th>
+ </tr>
+ <tr>
+   <td>Mookie Betts</td>
+   <td>Right</td>
+   <td>Right</td>
+ </tr>
+ <tr>
+   <td>JD Martinez</td>
+   <td>Right</td>
+   <td>Right</td>
+ </tr>
+<tr>
+ <td>JBJ</td>
+ <td>Left</td>
+ <td>Left</td>
+</table>
